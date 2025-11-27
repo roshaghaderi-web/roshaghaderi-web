@@ -8,8 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/roshaghaderi-web](https://github.com/roshaghaderi-web)
 
 -  How to reach me: 
-[instagram][(https://www.instagram.com/pouria_farahani_developer](https://www.instagram.com/rosha_ghaderi7?igsh=ZnhzdWNyemtpZ2Q0)) and 
-[linkedin]([https://www.linkedin.com/in/pouria-farahani-developer](https://www.linkedin.com/in/rosha-ghaderi-3367aa391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+[instagram](https://www.instagram.com/rosha_ghaderi7?igsh=ZnhzdWNyemtpZ2Q0) and 
+[linkedin](https://www.linkedin.com/in/rosha-ghaderi-3367aa391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
