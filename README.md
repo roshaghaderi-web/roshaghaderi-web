@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm rosha ghaderi</h1>
+<h3 align="center">A passionate frontend developer from iran</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshaghaderi-web&label=Profile%20views&color=0e75b6&style=flat" alt="roshaghaderi-web" /> </p>
 
-**roshaghaderi-web/roshaghaderi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshaghaderi-web" alt="roshaghaderi-web" /></a> </p>
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/roshaghaderi-web](https://github.com/roshaghaderi-web)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+- 📫 How to reach me **roshag067@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rosha-ghaderi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rosha-ghaderi" height="30" width="40" /></a>
+<a href="https://instagram.com/rosha_ghaderi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rosha_ghaderi7" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshaghaderi-web&show_icons=true&locale=en&layout=compact" alt="roshaghaderi-web" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshaghaderi-web&show_icons=true&locale=en" alt="roshaghaderi-web" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshaghaderi-web&" alt="roshaghaderi-web" /></p>
+
