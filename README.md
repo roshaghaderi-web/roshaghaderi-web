@@ -1,8 +1,16 @@
-👋 Hey, I'm Rosha Ghaderi
+<h1 align="center">Hi 👋, I'm Rosha Ghaderi</h1><h3 align="center">🌱 Aspiring Front-End Developer | Passionate About Learning & Building</h3>---
 
-💻 Passionate Front-End Developer in progress, focused on building modern, fast, and user-friendly web experiences.
+👩‍💻 About Me
 
-🚀 Tech Stack
+- 🌱 Currently learning HTML, CSS, JavaScript, React & Next.js
+- 💻 Building projects to improve my front-end development skills
+- 🎯 Focused on writing clean, responsive, and maintainable code
+- 🚀 Expanding my knowledge one project at a time
+- ✨ Passionate about creating modern and user-friendly web experiences
+
+---
+
+🛠️ Currently Learning
 
 - HTML5
 - CSS3
@@ -10,16 +18,14 @@
 - React
 - Next.js
 
-🌱 Currently
+---
 
-- Crafting responsive and pixel-perfect interfaces.
-- Learning modern Front-End architecture and best practices.
-- Building projects to improve performance, scalability, and clean code.
+🎯 My Goal
 
-🎯 Goals
+To become a skilled Front-End Developer by continuously learning, building real-world projects, and turning ideas into beautiful, interactive web applications.
 
-Transform ideas into beautiful, interactive, and high-performance web applications while continuously learning and growing as a developer.
+---
 
-«"Great websites aren't just built—they're crafted with passion, creativity, and clean code." ✨»
+<div align="center">"Every expert was once a beginner. Keep building. Keep learning." 🚀
 
-Thanks for stopping by! Feel free to explore my repositories and follow my journey. 🚀
+</div>
