@@ -1,25 +1,16 @@
-Hey, I'm Rosha Ghaderi 👋
+<h1 align="center">Hi 👋, I'm Rosha Ghaderi</h1><h3 align="center">🌱 Aspiring Front-End Developer | Passionate About Learning & Building</h3>---
 
-🌱 Front-End Developer Journey
+👩‍💻 About Me
 
-I'm passionate about creating modern, responsive, and engaging web experiences. Currently learning and improving my skills in HTML, CSS, JavaScript, React, and Next.js while building real-world projects and growing as a developer every day.
-
-✨ Learning with curiosity, building with passion, and improving with every line of code.
-
----
-
-🚀 About Me
-
-- 💻 Passionate about Front-End Development
-- 🌐 Building responsive and interactive web applications
-- ⚛️ Exploring React and Next.js through practical projects
-- 🎨 Creating clean, modern, and user-friendly interfaces
-- 📚 Always learning new technologies and development best practices
-- 🚀 Growing one project, one challenge, and one solution at a time
+- 🌱 Currently learning HTML, CSS, JavaScript, React & Next.js
+- 💻 Building projects to improve my front-end development skills
+- 🎯 Focused on writing clean, responsive, and maintainable code
+- 🚀 Expanding my knowledge one project at a time
+- ✨ Passionate about creating modern and user-friendly web experiences
 
 ---
 
-🛠️ Tech Stack
+🛠️ Currently Learning
 
 - HTML5
 - CSS3
@@ -29,21 +20,12 @@ I'm passionate about creating modern, responsive, and engaging web experiences. 
 
 ---
 
-📌 Current Focus
+🎯 My Goal
 
-- 🌱 Strengthening my React & Next.js skills
-- 💡 Building real-world projects
-- 🎯 Writing clean, reusable, and maintainable code
-- ✨ Improving UI/UX and responsive design techniques
+To become a skilled Front-End Developer by continuously learning, building real-world projects, and turning ideas into beautiful, interactive web applications.
 
 ---
 
-🌍 Let's Connect
+<div align="center">"Every expert was once a beginner. Keep building. Keep learning." 🚀
 
-I'm always excited to learn, collaborate, and connect with other developers. Feel free to explore my repositories and follow my journey!
-
----
-
-✨ Thanks for stopping by!
-
-«"Success isn't about being perfect—it's about improving every single day." 🚀💙»
+</div>
