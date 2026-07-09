@@ -1,12 +1,12 @@
 Hey, I'm Rosha Ghaderi 👋
 
-🌱 Learning Front-End Develoment
+🌱 Front-End Developer Journey
 
 I'm passionate about creating modern, responsive, and engaging web experiences. Currently learning and improving my skills in HTML, CSS, JavaScript, React, and Next.js while building real-world projects and growing as a developer every day.
 
 ✨ Learning with curiosity, building with passion, and improving with every line of code.
 
-
+---
 
 🚀 About Me
 
